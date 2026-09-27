@@ -2,7 +2,7 @@
 
 Status: Prepare partial. The 113-case source corpus is fixed and checked; a conclusive theta-host target oracle remains pending. No reduction or solution is claimed.
 
-Scope: independent testing foundation only. Round budget: 0 construction rounds authorized.
+Initial setup: this pass built the testing foundation and ran no construction rounds. Future work follows the current user's scope and pipeline.
 
 Capability probe: CPython 3.12.14 and locked `z3-solver` 4.16.0.0 for exact source interval-order checks. See [preparation.md](work/preparation.md).
 
