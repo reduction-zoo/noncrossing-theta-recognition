@@ -1,0 +1,7 @@
+{
+  "id": "Q024",
+  "source_definition": "The source is an explicitly encoded height-one poset. Its outputs are at most three interval orders whose intersection is that poset, or NO-SOLUTION.",
+  "target_definition": "The fixed host has one a\u2013b edge, three parallel b\u2013c edges, and one c\u2013d edge. Represent the target graph by connected subgraphs of a subdivision of this host, with intersection exactly adjacency and each pairwise set difference connected or empty.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
